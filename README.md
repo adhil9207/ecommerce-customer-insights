@@ -6,6 +6,7 @@ This project analyzes customer purchase behavior and loyalty patterns for an e-c
 
 Python (Pandas) → Data cleaning 
 
+
 PostgreSQL → SQL queries and aggregations
 
 Power BI → Interactive dashboard
