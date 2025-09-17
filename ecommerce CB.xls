@@ -1,0 +1,349 @@
+Customer ID,Gender,Age,City,Membership Type,Items Purchased,Average Rating,Discount Applied,Days Since Last Purchase,Satisfaction Level,Total_spend,Spend_per_Item,Purchase_Frequency,Age_Group,High_Value,Discount_Category,Loyalty_Segment
+101,Female,29,New York,Gold,14,4.6,True,25,Satisfied,1120,80.0,0.038461538461538464,18-30,True,Discounted,High Spender
+102,Male,34,Los Angeles,Silver,11,4.1,False,18,Neutral,780,70.9090909090909,0.05263157894736842,31-45,False,Full Price,High Spender
+103,Female,43,Chicago,Bronze,9,3.4,True,42,Unsatisfied,511,56.77777777777778,0.023255813953488372,31-45,False,Discounted,Mid Spender
+104,Male,30,San Francisco,Gold,19,4.7,False,12,Satisfied,1480,77.89473684210526,0.07692307692307693,18-30,True,Full Price,Top Spender
+105,Male,27,Miami,Silver,13,4.0,True,55,Unsatisfied,720,55.38461538461539,0.017857142857142856,18-30,False,Discounted,Mid Spender
+106,Female,37,Houston,Bronze,8,3.1,False,22,Neutral,441,55.125,0.043478260869565216,31-45,False,Full Price,Low Spender
+107,Female,31,New York,Gold,15,4.5,True,28,Satisfied,1151,76.73333333333333,0.034482758620689655,31-45,True,Discounted,High Spender
+108,Male,35,Los Angeles,Silver,12,4.2,False,14,Neutral,801,66.75,0.06666666666666667,31-45,True,Full Price,High Spender
+109,Female,41,Chicago,Bronze,10,3.6,True,40,Unsatisfied,495,49.5,0.024390243902439025,31-45,False,Discounted,Low Spender
+110,Male,28,San Francisco,Gold,21,4.8,False,9,Satisfied,1520,72.38095238095238,0.1,18-30,True,Full Price,Top Spender
+111,Male,32,Miami,Silver,11,3.8,True,34,Unsatisfied,690,62.72727272727273,0.02857142857142857,31-45,False,Discounted,Mid Spender
+112,Female,36,Houston,Bronze,7,3.2,False,20,Neutral,470,67.14285714285714,0.047619047619047616,31-45,False,Full Price,Low Spender
+113,Female,30,New York,Gold,16,4.3,True,21,Satisfied,1201,75.0625,0.045454545454545456,18-30,True,Discounted,Top Spender
+114,Male,33,Los Angeles,Silver,13,4.4,False,15,Satisfied,821,63.15384615384615,0.0625,31-45,True,Full Price,High Spender
+115,Female,42,Chicago,Bronze,9,3.5,True,38,Unsatisfied,530,58.888888888888886,0.02564102564102564,31-45,False,Discounted,Mid Spender
+116,Male,29,San Francisco,Gold,18,4.9,False,11,Satisfied,1360,75.55555555555556,0.08333333333333333,18-30,True,Full Price,Top Spender
+117,Male,26,Miami,Silver,12,3.7,True,48,Unsatisfied,701,58.416666666666664,0.02040816326530612,18-30,False,Discounted,Mid Spender
+118,Female,38,Houston,Bronze,8,3.0,False,25,Neutral,451,56.375,0.038461538461538464,31-45,False,Full Price,Low Spender
+119,Female,32,New York,Gold,14,4.7,True,29,Satisfied,1170,83.57142857142857,0.03333333333333333,31-45,True,Discounted,Top Spender
+120,Male,34,Los Angeles,Silver,11,4.0,False,16,Neutral,790,71.81818181818181,0.058823529411764705,31-45,True,Full Price,High Spender
+121,Female,43,Chicago,Bronze,10,3.3,True,41,Unsatisfied,506,50.6,0.023809523809523808,31-45,False,Discounted,Mid Spender
+122,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+123,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+124,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+125,Female,31,New York,Gold,15,4.6,True,27,Satisfied,1141,76.06666666666666,0.03571428571428571,31-45,True,Discounted,High Spender
+126,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,811,67.58333333333333,0.07142857142857142,31-45,True,Full Price,High Spender
+127,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,485,53.888888888888886,0.025,31-45,False,Discounted,Low Spender
+128,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1500,71.42857142857143,0.09090909090909091,18-30,True,Full Price,Top Spender
+129,Male,32,Miami,Silver,10,3.8,True,33,Unsatisfied,670,67.0,0.029411764705882353,31-45,False,Discounted,Mid Spender
+130,Female,36,Houston,Bronze,8,3.1,False,19,Neutral,460,57.5,0.05,31-45,False,Full Price,Low Spender
+131,Female,30,New York,Gold,16,4.5,True,20,Satisfied,1191,74.4375,0.047619047619047616,18-30,True,Discounted,Top Spender
+132,Male,33,Los Angeles,Silver,13,4.2,False,14,Satisfied,831,63.92307692307692,0.06666666666666667,31-45,True,Full Price,High Spender
+133,Female,42,Chicago,Bronze,9,3.5,True,37,Unsatisfied,520,57.77777777777778,0.02631578947368421,31-45,False,Discounted,Mid Spender
+134,Male,29,San Francisco,Gold,18,4.7,False,10,Satisfied,1370,76.11111111111111,0.09090909090909091,18-30,True,Full Price,Top Spender
+135,Male,26,Miami,Silver,12,3.9,True,47,Unsatisfied,691,57.583333333333336,0.020833333333333332,18-30,False,Discounted,Mid Spender
+136,Female,38,Houston,Bronze,8,3.2,False,24,Neutral,441,55.125,0.04,31-45,False,Full Price,Low Spender
+137,Female,32,New York,Gold,14,4.4,True,22,Satisfied,1160,82.85714285714286,0.043478260869565216,31-45,True,Discounted,High Spender
+138,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,800,72.72727272727273,0.05555555555555555,31-45,True,Full Price,High Spender
+139,Female,43,Chicago,Bronze,10,3.3,True,40,Unsatisfied,501,50.1,0.024390243902439025,31-45,False,Discounted,Low Spender
+140,Male,30,San Francisco,Gold,20,4.8,False,12,Satisfied,1460,73.0,0.07692307692307693,18-30,True,Full Price,Top Spender
+141,Male,27,Miami,Silver,13,4.0,True,53,Unsatisfied,700,53.84615384615385,0.018518518518518517,18-30,False,Discounted,Mid Spender
+142,Female,37,Houston,Bronze,7,3.1,False,21,Neutral,421,60.142857142857146,0.045454545454545456,31-45,False,Full Price,Low Spender
+143,Female,31,New York,Gold,15,4.5,True,26,Satisfied,1131,75.4,0.037037037037037035,31-45,True,Discounted,High Spender
+144,Male,35,Los Angeles,Silver,12,4.3,False,12,Neutral,821,68.41666666666667,0.07692307692307693,31-45,True,Full Price,High Spender
+145,Female,41,Chicago,Bronze,9,3.6,True,38,Unsatisfied,480,53.333333333333336,0.02564102564102564,31-45,False,Discounted,Low Spender
+146,Male,28,San Francisco,Gold,21,4.9,False,9,Satisfied,1490,70.95238095238095,0.1,18-30,True,Full Price,Top Spender
+147,Male,32,Miami,Silver,10,3.8,True,32,Unsatisfied,680,68.0,0.030303030303030304,31-45,False,Discounted,Mid Spender
+148,Female,36,Houston,Bronze,8,3.0,False,18,Neutral,470,58.75,0.05263157894736842,31-45,False,Full Price,Low Spender
+149,Female,30,New York,Gold,16,4.7,True,19,Satisfied,1181,73.8125,0.05,18-30,True,Discounted,Top Spender
+150,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+151,Female,43,Chicago,Bronze,10,3.3,True,39,Unsatisfied,506,50.6,0.025,31-45,False,Discounted,Mid Spender
+152,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+153,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+154,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+155,Female,31,New York,Gold,15,4.6,True,27,Satisfied,1141,76.06666666666666,0.03571428571428571,31-45,True,Discounted,High Spender
+156,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,811,67.58333333333333,0.07142857142857142,31-45,True,Full Price,High Spender
+157,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,485,53.888888888888886,0.025,31-45,False,Discounted,Low Spender
+158,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1500,71.42857142857143,0.09090909090909091,18-30,True,Full Price,Top Spender
+159,Male,32,Miami,Silver,10,3.8,True,33,Unsatisfied,670,67.0,0.029411764705882353,31-45,False,Discounted,Mid Spender
+160,Female,36,Houston,Bronze,8,3.1,False,19,Neutral,460,57.5,0.05,31-45,False,Full Price,Low Spender
+161,Female,30,New York,Gold,16,4.5,True,20,Satisfied,1191,74.4375,0.047619047619047616,18-30,True,Discounted,Top Spender
+162,Male,33,Los Angeles,Silver,13,4.2,False,14,Satisfied,831,63.92307692307692,0.06666666666666667,31-45,True,Full Price,High Spender
+163,Female,42,Chicago,Bronze,9,3.5,True,37,Unsatisfied,520,57.77777777777778,0.02631578947368421,31-45,False,Discounted,Mid Spender
+164,Male,29,San Francisco,Gold,18,4.7,False,10,Satisfied,1370,76.11111111111111,0.09090909090909091,18-30,True,Full Price,Top Spender
+165,Male,26,Miami,Silver,12,3.9,True,47,Unsatisfied,691,57.583333333333336,0.020833333333333332,18-30,False,Discounted,Mid Spender
+166,Female,38,Houston,Bronze,8,3.2,False,24,Neutral,441,55.125,0.04,31-45,False,Full Price,Low Spender
+167,Female,32,New York,Gold,14,4.4,True,22,Satisfied,1160,82.85714285714286,0.043478260869565216,31-45,True,Discounted,High Spender
+168,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,800,72.72727272727273,0.05555555555555555,31-45,True,Full Price,High Spender
+169,Female,43,Chicago,Bronze,10,3.3,True,40,Unsatisfied,501,50.1,0.024390243902439025,31-45,False,Discounted,Low Spender
+170,Male,30,San Francisco,Gold,20,4.8,False,12,Satisfied,1460,73.0,0.07692307692307693,18-30,True,Full Price,Top Spender
+171,Male,27,Miami,Silver,13,4.0,True,53,Unsatisfied,700,53.84615384615385,0.018518518518518517,18-30,False,Discounted,Mid Spender
+173,Female,31,New York,Gold,15,4.5,True,26,Satisfied,1131,75.4,0.037037037037037035,31-45,True,Discounted,High Spender
+174,Male,35,Los Angeles,Silver,12,4.3,False,12,Neutral,821,68.41666666666667,0.07692307692307693,31-45,True,Full Price,High Spender
+175,Female,41,Chicago,Bronze,9,3.6,True,38,Unsatisfied,480,53.333333333333336,0.02564102564102564,31-45,False,Discounted,Low Spender
+176,Male,28,San Francisco,Gold,21,4.9,False,9,Satisfied,1490,70.95238095238095,0.1,18-30,True,Full Price,Top Spender
+177,Male,32,Miami,Silver,10,3.8,True,32,Unsatisfied,680,68.0,0.030303030303030304,31-45,False,Discounted,Mid Spender
+178,Female,36,Houston,Bronze,8,3.0,False,18,Neutral,470,58.75,0.05263157894736842,31-45,False,Full Price,Low Spender
+179,Female,30,New York,Gold,16,4.7,True,19,Satisfied,1181,73.8125,0.05,18-30,True,Discounted,Top Spender
+180,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+181,Female,43,Chicago,Bronze,10,3.3,True,39,Unsatisfied,506,50.6,0.025,31-45,False,Discounted,Mid Spender
+182,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+183,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+184,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+185,Female,31,New York,Gold,15,4.6,True,27,Satisfied,1141,76.06666666666666,0.03571428571428571,31-45,True,Discounted,High Spender
+186,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,811,67.58333333333333,0.07142857142857142,31-45,True,Full Price,High Spender
+187,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,485,53.888888888888886,0.025,31-45,False,Discounted,Low Spender
+188,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1500,71.42857142857143,0.09090909090909091,18-30,True,Full Price,Top Spender
+189,Male,32,Miami,Silver,10,3.8,True,33,Unsatisfied,670,67.0,0.029411764705882353,31-45,False,Discounted,Mid Spender
+190,Female,36,Houston,Bronze,8,3.1,False,19,Neutral,460,57.5,0.05,31-45,False,Full Price,Low Spender
+191,Female,30,New York,Gold,16,4.5,True,20,Satisfied,1191,74.4375,0.047619047619047616,18-30,True,Discounted,Top Spender
+192,Male,33,Los Angeles,Silver,13,4.2,False,14,Satisfied,831,63.92307692307692,0.06666666666666667,31-45,True,Full Price,High Spender
+193,Female,42,Chicago,Bronze,9,3.5,True,37,Unsatisfied,520,57.77777777777778,0.02631578947368421,31-45,False,Discounted,Mid Spender
+194,Male,29,San Francisco,Gold,18,4.7,False,10,Satisfied,1370,76.11111111111111,0.09090909090909091,18-30,True,Full Price,Top Spender
+195,Male,26,Miami,Silver,12,3.9,True,47,Unsatisfied,691,57.583333333333336,0.020833333333333332,18-30,False,Discounted,Mid Spender
+196,Female,38,Houston,Bronze,8,3.2,False,24,Neutral,441,55.125,0.04,31-45,False,Full Price,Low Spender
+197,Female,32,New York,Gold,14,4.4,True,22,Satisfied,1160,82.85714285714286,0.043478260869565216,31-45,True,Discounted,High Spender
+198,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,800,72.72727272727273,0.05555555555555555,31-45,True,Full Price,High Spender
+199,Female,43,Chicago,Bronze,10,3.3,True,40,Unsatisfied,501,50.1,0.024390243902439025,31-45,False,Discounted,Low Spender
+200,Male,30,San Francisco,Gold,20,4.8,False,12,Satisfied,1460,73.0,0.07692307692307693,18-30,True,Full Price,Top Spender
+201,Male,27,Miami,Silver,13,4.0,True,53,Unsatisfied,700,53.84615384615385,0.018518518518518517,18-30,False,Discounted,Mid Spender
+202,Female,37,Houston,Bronze,7,3.1,False,21,Neutral,421,60.142857142857146,0.045454545454545456,31-45,False,Full Price,Low Spender
+203,Female,31,New York,Gold,15,4.5,True,26,Satisfied,1131,75.4,0.037037037037037035,31-45,True,Discounted,High Spender
+204,Male,35,Los Angeles,Silver,12,4.3,False,12,Neutral,821,68.41666666666667,0.07692307692307693,31-45,True,Full Price,High Spender
+205,Female,41,Chicago,Bronze,9,3.6,True,38,Unsatisfied,480,53.333333333333336,0.02564102564102564,31-45,False,Discounted,Low Spender
+206,Male,28,San Francisco,Gold,21,4.9,False,9,Satisfied,1490,70.95238095238095,0.1,18-30,True,Full Price,Top Spender
+207,Male,32,Miami,Silver,10,3.8,True,32,Unsatisfied,680,68.0,0.030303030303030304,31-45,False,Discounted,Mid Spender
+208,Female,36,Houston,Bronze,8,3.0,False,18,Neutral,470,58.75,0.05263157894736842,31-45,False,Full Price,Low Spender
+209,Female,30,New York,Gold,16,4.7,True,19,Satisfied,1181,73.8125,0.05,18-30,True,Discounted,Top Spender
+210,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+211,Female,43,Chicago,Bronze,10,3.3,True,39,Unsatisfied,506,50.6,0.025,31-45,False,Discounted,Mid Spender
+212,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+213,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+214,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+215,Female,31,New York,Gold,15,4.6,True,27,Satisfied,1141,76.06666666666666,0.03571428571428571,31-45,True,Discounted,High Spender
+216,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,811,67.58333333333333,0.07142857142857142,31-45,True,Full Price,High Spender
+217,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,485,53.888888888888886,0.025,31-45,False,Discounted,Low Spender
+218,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1500,71.42857142857143,0.09090909090909091,18-30,True,Full Price,Top Spender
+219,Male,32,Miami,Silver,10,3.8,True,33,Unsatisfied,670,67.0,0.029411764705882353,31-45,False,Discounted,Mid Spender
+220,Female,36,Houston,Bronze,8,3.1,False,19,Neutral,460,57.5,0.05,31-45,False,Full Price,Low Spender
+221,Female,30,New York,Gold,16,4.5,True,20,Satisfied,1191,74.4375,0.047619047619047616,18-30,True,Discounted,Top Spender
+222,Male,33,Los Angeles,Silver,13,4.2,False,14,Satisfied,831,63.92307692307692,0.06666666666666667,31-45,True,Full Price,High Spender
+223,Female,42,Chicago,Bronze,9,3.5,True,37,Unsatisfied,520,57.77777777777778,0.02631578947368421,31-45,False,Discounted,Mid Spender
+224,Male,29,San Francisco,Gold,18,4.7,False,10,Satisfied,1370,76.11111111111111,0.09090909090909091,18-30,True,Full Price,Top Spender
+225,Male,26,Miami,Silver,12,3.9,True,47,Unsatisfied,691,57.583333333333336,0.020833333333333332,18-30,False,Discounted,Mid Spender
+226,Female,38,Houston,Bronze,8,3.2,False,24,Neutral,441,55.125,0.04,31-45,False,Full Price,Low Spender
+227,Female,32,New York,Gold,14,4.4,True,22,Satisfied,1160,82.85714285714286,0.043478260869565216,31-45,True,Discounted,High Spender
+228,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,800,72.72727272727273,0.05555555555555555,31-45,True,Full Price,High Spender
+229,Female,43,Chicago,Bronze,10,3.3,True,40,Unsatisfied,501,50.1,0.024390243902439025,31-45,False,Discounted,Low Spender
+230,Male,30,San Francisco,Gold,20,4.8,False,12,Satisfied,1460,73.0,0.07692307692307693,18-30,True,Full Price,Top Spender
+231,Male,27,Miami,Silver,13,4.0,True,53,Unsatisfied,700,53.84615384615385,0.018518518518518517,18-30,False,Discounted,Mid Spender
+232,Female,37,Houston,Bronze,7,3.1,False,21,Neutral,421,60.142857142857146,0.045454545454545456,31-45,False,Full Price,Low Spender
+233,Female,31,New York,Gold,15,4.5,True,26,Satisfied,1131,75.4,0.037037037037037035,31-45,True,Discounted,High Spender
+234,Male,35,Los Angeles,Silver,12,4.3,False,12,Neutral,821,68.41666666666667,0.07692307692307693,31-45,True,Full Price,High Spender
+235,Female,41,Chicago,Bronze,9,3.6,True,38,Unsatisfied,480,53.333333333333336,0.02564102564102564,31-45,False,Discounted,Low Spender
+236,Male,28,San Francisco,Gold,21,4.9,False,9,Satisfied,1490,70.95238095238095,0.1,18-30,True,Full Price,Top Spender
+237,Male,32,Miami,Silver,10,3.8,True,32,Unsatisfied,680,68.0,0.030303030303030304,31-45,False,Discounted,Mid Spender
+238,Female,36,Houston,Bronze,8,3.0,False,18,Neutral,470,58.75,0.05263157894736842,31-45,False,Full Price,Low Spender
+239,Female,30,New York,Gold,16,4.7,True,19,Satisfied,1181,73.8125,0.05,18-30,True,Discounted,Top Spender
+240,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+241,Female,43,Chicago,Bronze,10,3.3,True,39,Unsatisfied,506,50.6,0.025,31-45,False,Discounted,Mid Spender
+242,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+243,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+245,Female,31,New York,Gold,15,4.5,True,26,Satisfied,1131,75.4,0.037037037037037035,31-45,True,Discounted,High Spender
+246,Male,35,Los Angeles,Silver,12,4.3,False,12,Neutral,821,68.41666666666667,0.07692307692307693,31-45,True,Full Price,High Spender
+247,Female,41,Chicago,Bronze,9,3.6,True,38,Unsatisfied,480,53.333333333333336,0.02564102564102564,31-45,False,Discounted,Low Spender
+248,Male,28,San Francisco,Gold,21,4.9,False,9,Satisfied,1490,70.95238095238095,0.1,18-30,True,Full Price,Top Spender
+249,Male,32,Miami,Silver,10,3.8,True,32,Unsatisfied,680,68.0,0.030303030303030304,31-45,False,Discounted,Mid Spender
+250,Female,36,Houston,Bronze,8,3.0,False,18,Neutral,470,58.75,0.05263157894736842,31-45,False,Full Price,Low Spender
+251,Female,30,New York,Gold,16,4.7,True,19,Satisfied,1181,73.8125,0.05,18-30,True,Discounted,Top Spender
+252,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+253,Female,43,Chicago,Bronze,10,3.3,True,39,Unsatisfied,506,50.6,0.025,31-45,False,Discounted,Mid Spender
+254,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+255,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+256,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+257,Female,31,New York,Gold,15,4.6,True,27,Satisfied,1141,76.06666666666666,0.03571428571428571,31-45,True,Discounted,High Spender
+258,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,811,67.58333333333333,0.07142857142857142,31-45,True,Full Price,High Spender
+259,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,485,53.888888888888886,0.025,31-45,False,Discounted,Low Spender
+260,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1500,71.42857142857143,0.09090909090909091,18-30,True,Full Price,Top Spender
+261,Male,32,Miami,Silver,10,3.8,True,33,Unsatisfied,670,67.0,0.029411764705882353,31-45,False,Discounted,Mid Spender
+262,Female,36,Houston,Bronze,8,3.1,False,19,Neutral,460,57.5,0.05,31-45,False,Full Price,Low Spender
+263,Female,30,New York,Gold,16,4.5,True,20,Satisfied,1191,74.4375,0.047619047619047616,18-30,True,Discounted,Top Spender
+264,Male,33,Los Angeles,Silver,13,4.2,False,14,Satisfied,831,63.92307692307692,0.06666666666666667,31-45,True,Full Price,High Spender
+265,Female,42,Chicago,Bronze,9,3.5,True,37,Unsatisfied,520,57.77777777777778,0.02631578947368421,31-45,False,Discounted,Mid Spender
+266,Male,29,San Francisco,Gold,18,4.7,False,10,Satisfied,1370,76.11111111111111,0.09090909090909091,18-30,True,Full Price,Top Spender
+267,Male,26,Miami,Silver,12,3.9,True,47,Unsatisfied,691,57.583333333333336,0.020833333333333332,18-30,False,Discounted,Mid Spender
+268,Female,38,Houston,Bronze,8,3.2,False,24,Neutral,441,55.125,0.04,31-45,False,Full Price,Low Spender
+269,Female,32,New York,Gold,14,4.4,True,22,Satisfied,1160,82.85714285714286,0.043478260869565216,31-45,True,Discounted,High Spender
+270,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,800,72.72727272727273,0.05555555555555555,31-45,True,Full Price,High Spender
+271,Female,43,Chicago,Bronze,10,3.3,True,40,Unsatisfied,501,50.1,0.024390243902439025,31-45,False,Discounted,Low Spender
+272,Male,30,San Francisco,Gold,20,4.8,False,12,Satisfied,1460,73.0,0.07692307692307693,18-30,True,Full Price,Top Spender
+273,Male,27,Miami,Silver,13,4.0,True,53,Unsatisfied,700,53.84615384615385,0.018518518518518517,18-30,False,Discounted,Mid Spender
+274,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+275,Female,31,New York,Gold,15,4.5,True,27,Satisfied,1141,76.06666666666666,0.03571428571428571,31-45,True,Discounted,High Spender
+276,Male,35,Los Angeles,Silver,12,4.3,False,12,Neutral,821,68.41666666666667,0.07692307692307693,31-45,True,Full Price,High Spender
+277,Female,41,Chicago,Bronze,9,3.6,True,38,Unsatisfied,480,53.333333333333336,0.02564102564102564,31-45,False,Discounted,Low Spender
+278,Male,28,San Francisco,Gold,21,4.9,False,9,Satisfied,1490,70.95238095238095,0.1,18-30,True,Full Price,Top Spender
+279,Male,32,Miami,Silver,10,3.8,True,32,Unsatisfied,680,68.0,0.030303030303030304,31-45,False,Discounted,Mid Spender
+280,Female,36,Houston,Bronze,8,3.0,False,18,Neutral,470,58.75,0.05263157894736842,31-45,False,Full Price,Low Spender
+281,Female,30,New York,Gold,16,4.7,True,19,Satisfied,1181,73.8125,0.05,18-30,True,Discounted,Top Spender
+282,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+283,Female,43,Chicago,Bronze,10,3.3,True,39,Unsatisfied,506,50.6,0.025,31-45,False,Discounted,Mid Spender
+284,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+285,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+286,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+287,Female,31,New York,Gold,15,4.5,True,26,Satisfied,1131,75.4,0.037037037037037035,31-45,True,Discounted,High Spender
+288,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,821,68.41666666666667,0.07142857142857142,31-45,True,Full Price,High Spender
+289,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,485,53.888888888888886,0.025,31-45,False,Discounted,Low Spender
+290,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1500,71.42857142857143,0.09090909090909091,18-30,True,Full Price,Top Spender
+291,Male,32,Miami,Silver,10,3.8,True,33,Unsatisfied,670,67.0,0.029411764705882353,31-45,False,Discounted,Mid Spender
+292,Female,36,Houston,Bronze,8,3.1,False,19,Neutral,460,57.5,0.05,31-45,False,Full Price,Low Spender
+293,Female,30,New York,Gold,16,4.5,True,20,Satisfied,1191,74.4375,0.047619047619047616,18-30,True,Discounted,Top Spender
+294,Male,33,Los Angeles,Silver,13,4.2,False,14,Satisfied,831,63.92307692307692,0.06666666666666667,31-45,True,Full Price,High Spender
+295,Female,42,Chicago,Bronze,9,3.5,True,37,Unsatisfied,520,57.77777777777778,0.02631578947368421,31-45,False,Discounted,Mid Spender
+296,Male,29,San Francisco,Gold,18,4.7,False,10,Satisfied,1370,76.11111111111111,0.09090909090909091,18-30,True,Full Price,Top Spender
+297,Male,26,Miami,Silver,12,3.9,True,47,Unsatisfied,691,57.583333333333336,0.020833333333333332,18-30,False,Discounted,Mid Spender
+298,Female,38,Houston,Bronze,8,3.2,False,24,Neutral,441,55.125,0.04,31-45,False,Full Price,Low Spender
+299,Female,32,New York,Gold,14,4.4,True,22,Satisfied,1160,82.85714285714286,0.043478260869565216,31-45,True,Discounted,High Spender
+300,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,800,72.72727272727273,0.05555555555555555,31-45,True,Full Price,High Spender
+301,Male,36,San Francisco,Gold,19,4.6,False,11,Satisfied,1421,74.78947368421052,0.08333333333333333,31-45,True,Full Price,Top Spender
+302,Female,29,Miami,Silver,14,4.0,True,50,Unsatisfied,730,52.142857142857146,0.0196078431372549,18-30,False,Discounted,Mid Spender
+303,Female,35,Houston,Bronze,7,3.3,False,21,Neutral,451,64.42857142857143,0.045454545454545456,31-45,False,Full Price,Low Spender
+304,Male,31,New York,Gold,17,4.8,True,18,Satisfied,1211,71.23529411764706,0.05263157894736842,31-45,True,Discounted,Top Spender
+305,Male,27,Los Angeles,Silver,11,4.2,False,16,Neutral,781,71.0,0.058823529411764705,18-30,True,Full Price,High Spender
+306,Female,42,Chicago,Bronze,10,3.5,True,35,Unsatisfied,495,49.5,0.027777777777777776,31-45,False,Discounted,Low Spender
+307,Male,29,San Francisco,Gold,18,4.7,False,9,Satisfied,1390,77.22222222222223,0.1,18-30,True,Full Price,Top Spender
+308,Male,26,Miami,Silver,12,3.9,True,46,Unsatisfied,671,55.916666666666664,0.02127659574468085,18-30,False,Discounted,Mid Spender
+309,Female,38,Houston,Bronze,8,3.2,False,25,Neutral,461,57.625,0.038461538461538464,31-45,False,Full Price,Low Spender
+310,Female,32,New York,Gold,14,4.5,True,21,Satisfied,1170,83.57142857142857,0.045454545454545456,31-45,True,Discounted,Top Spender
+311,Male,34,Los Angeles,Silver,11,4.0,False,14,Neutral,810,73.63636363636364,0.06666666666666667,31-45,True,Full Price,High Spender
+312,Female,43,Chicago,Bronze,9,3.3,True,38,Unsatisfied,516,57.333333333333336,0.02564102564102564,31-45,False,Discounted,Mid Spender
+313,Male,30,San Francisco,Gold,20,4.8,False,12,Satisfied,1450,72.5,0.07692307692307693,18-30,True,Full Price,Top Spender
+314,Male,27,Miami,Silver,13,4.1,True,52,Unsatisfied,690,53.07692307692308,0.018867924528301886,18-30,False,Discounted,Mid Spender
+315,Female,37,Houston,Bronze,7,3.4,False,24,Neutral,421,60.142857142857146,0.04,31-45,False,Full Price,Low Spender
+316,Female,31,New York,Gold,15,4.5,True,26,Satisfied,1131,75.4,0.037037037037037035,31-45,True,Discounted,High Spender
+317,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,821,68.41666666666667,0.07142857142857142,31-45,True,Full Price,High Spender
+318,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,480,53.333333333333336,0.025,31-45,False,Discounted,Low Spender
+319,Male,28,San Francisco,Gold,21,4.9,False,9,Satisfied,1490,70.95238095238095,0.1,18-30,True,Full Price,Top Spender
+320,Male,32,Miami,Silver,10,3.8,True,32,Unsatisfied,680,68.0,0.030303030303030304,31-45,False,Discounted,Mid Spender
+321,Female,36,Houston,Bronze,8,3.0,False,18,Neutral,470,58.75,0.05263157894736842,31-45,False,Full Price,Low Spender
+322,Female,30,New York,Gold,16,4.7,True,19,Satisfied,1181,73.8125,0.05,18-30,True,Discounted,Top Spender
+323,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+324,Female,43,Chicago,Bronze,10,3.3,True,39,Unsatisfied,506,50.6,0.025,31-45,False,Discounted,Mid Spender
+325,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1470,73.5,0.07142857142857142,18-30,True,Full Price,Top Spender
+326,Male,27,Miami,Silver,13,4.1,True,54,Unsatisfied,710,54.61538461538461,0.01818181818181818,18-30,False,Discounted,Mid Spender
+327,Female,37,Houston,Bronze,7,3.4,False,23,Neutral,431,61.57142857142857,0.041666666666666664,31-45,False,Full Price,Low Spender
+328,Female,31,New York,Gold,15,4.5,True,27,Satisfied,1141,76.06666666666666,0.03571428571428571,31-45,True,Discounted,High Spender
+329,Male,35,Los Angeles,Silver,12,4.3,False,13,Neutral,821,68.41666666666667,0.07142857142857142,31-45,True,Full Price,High Spender
+330,Female,41,Chicago,Bronze,9,3.6,True,39,Unsatisfied,485,53.888888888888886,0.025,31-45,False,Discounted,Low Spender
+331,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1500,71.42857142857143,0.09090909090909091,18-30,True,Full Price,Top Spender
+332,Male,32,Miami,Silver,10,3.8,True,33,Unsatisfied,670,67.0,0.029411764705882353,31-45,False,Discounted,Mid Spender
+333,Female,36,Houston,Bronze,8,3.1,False,19,Neutral,460,57.5,0.05,31-45,False,Full Price,Low Spender
+334,Female,30,New York,Gold,16,4.5,True,20,Satisfied,1191,74.4375,0.047619047619047616,18-30,True,Discounted,Top Spender
+335,Male,33,Los Angeles,Silver,13,4.2,False,14,Satisfied,831,63.92307692307692,0.06666666666666667,31-45,True,Full Price,High Spender
+336,Female,42,Chicago,Bronze,9,3.5,True,37,Unsatisfied,520,57.77777777777778,0.02631578947368421,31-45,False,Discounted,Mid Spender
+337,Male,29,San Francisco,Gold,18,4.7,False,10,Satisfied,1370,76.11111111111111,0.09090909090909091,18-30,True,Full Price,Top Spender
+338,Male,26,Miami,Silver,12,3.9,True,47,Unsatisfied,691,57.583333333333336,0.020833333333333332,18-30,False,Discounted,Mid Spender
+339,Female,38,Houston,Bronze,8,3.2,False,24,Neutral,441,55.125,0.04,31-45,False,Full Price,Low Spender
+340,Female,32,New York,Gold,14,4.4,True,22,Satisfied,1160,82.85714285714286,0.043478260869565216,31-45,True,Discounted,High Spender
+341,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,800,72.72727272727273,0.05555555555555555,31-45,True,Full Price,High Spender
+342,Female,43,Chicago,Bronze,9,3.3,True,40,Unsatisfied,526,58.44444444444444,0.024390243902439025,31-45,False,Discounted,Mid Spender
+343,Male,30,San Francisco,Gold,20,4.8,False,11,Satisfied,1460,73.0,0.08333333333333333,18-30,True,Full Price,Top Spender
+344,Male,27,Miami,Silver,13,4.0,True,55,Unsatisfied,720,55.38461538461539,0.017857142857142856,18-30,False,Discounted,Mid Spender
+345,Female,37,Houston,Bronze,7,3.2,False,25,Neutral,441,63.0,0.038461538461538464,31-45,False,Full Price,Low Spender
+346,Female,31,New York,Gold,15,4.5,True,28,Satisfied,1151,76.73333333333333,0.034482758620689655,31-45,True,Discounted,High Spender
+347,Male,35,Los Angeles,Silver,12,4.3,False,14,Neutral,831,69.25,0.06666666666666667,31-45,True,Full Price,High Spender
+348,Female,41,Chicago,Bronze,9,3.6,True,40,Unsatisfied,490,54.44444444444444,0.024390243902439025,31-45,False,Discounted,Low Spender
+349,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1480,70.47619047619048,0.09090909090909091,18-30,True,Full Price,Top Spender
+350,Male,32,Miami,Silver,10,3.8,True,34,Unsatisfied,690,69.0,0.02857142857142857,31-45,False,Discounted,Mid Spender
+351,Female,36,Houston,Bronze,8,3.1,False,20,Neutral,480,60.0,0.047619047619047616,31-45,False,Full Price,Low Spender
+352,Female,30,New York,Gold,16,4.7,True,21,Satisfied,1171,73.1875,0.045454545454545456,18-30,True,Discounted,Top Spender
+353,Male,34,Los Angeles,Silver,11,4.0,False,15,Neutral,790,71.81818181818181,0.0625,31-45,True,Full Price,High Spender
+354,Female,43,Chicago,Bronze,10,3.3,True,41,Unsatisfied,511,51.1,0.023809523809523808,31-45,False,Discounted,Mid Spender
+355,Male,30,San Francisco,Gold,19,4.6,False,12,Satisfied,1440,75.78947368421052,0.07692307692307693,18-30,True,Full Price,Top Spender
+356,Male,27,Miami,Silver,13,4.1,True,56,Unsatisfied,700,53.84615384615385,0.017543859649122806,18-30,False,Discounted,Mid Spender
+357,Female,37,Houston,Bronze,7,3.4,False,26,Neutral,411,58.714285714285715,0.037037037037037035,31-45,False,Full Price,Low Spender
+358,Female,31,New York,Gold,15,4.5,True,29,Satisfied,1161,77.4,0.03333333333333333,31-45,True,Discounted,Top Spender
+359,Male,35,Los Angeles,Silver,12,4.3,False,14,Neutral,811,67.58333333333333,0.06666666666666667,31-45,True,Full Price,High Spender
+360,Female,41,Chicago,Bronze,9,3.6,True,41,Unsatisfied,495,55.0,0.023809523809523808,31-45,False,Discounted,Low Spender
+361,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1490,70.95238095238095,0.09090909090909091,18-30,True,Full Price,Top Spender
+362,Male,32,Miami,Silver,10,3.8,True,35,Unsatisfied,660,66.0,0.027777777777777776,31-45,False,Discounted,Mid Spender
+363,Female,36,Houston,Bronze,8,3.1,False,21,Neutral,430,53.75,0.045454545454545456,31-45,False,Full Price,Low Spender
+364,Female,30,New York,Gold,16,4.7,True,22,Satisfied,1201,75.0625,0.043478260869565216,18-30,True,Discounted,Top Spender
+365,Male,34,Los Angeles,Silver,11,4.1,False,16,Neutral,780,70.9090909090909,0.058823529411764705,31-45,False,Full Price,High Spender
+366,Female,43,Chicago,Bronze,10,3.3,True,42,Unsatisfied,506,50.6,0.023255813953488372,31-45,False,Discounted,Mid Spender
+367,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1460,73.0,0.07142857142857142,18-30,True,Full Price,Top Spender
+368,Male,27,Miami,Silver,13,4.1,True,57,Unsatisfied,710,54.61538461538461,0.017241379310344827,18-30,False,Discounted,Mid Spender
+369,Female,37,Houston,Bronze,7,3.4,False,24,Neutral,451,64.42857142857143,0.04,31-45,False,Full Price,Low Spender
+370,Female,31,New York,Gold,15,4.5,True,30,Satisfied,1141,76.06666666666666,0.03225806451612903,31-45,True,Discounted,High Spender
+371,Male,35,Los Angeles,Silver,12,4.1,False,17,Neutral,801,66.75,0.05555555555555555,31-45,True,Full Price,High Spender
+372,Female,41,Chicago,Bronze,9,3.6,True,42,Unsatisfied,475,52.77777777777778,0.023255813953488372,31-45,False,Discounted,Low Spender
+373,Male,28,San Francisco,Gold,21,4.9,False,11,Satisfied,1480,70.47619047619048,0.08333333333333333,18-30,True,Full Price,Top Spender
+374,Male,32,Miami,Silver,10,3.8,True,36,Unsatisfied,660,66.0,0.02702702702702703,31-45,False,Discounted,Mid Spender
+375,Female,36,Houston,Bronze,8,3.0,False,22,Neutral,470,58.75,0.043478260869565216,31-45,False,Full Price,Low Spender
+376,Female,30,New York,Gold,16,4.5,True,23,Satisfied,1191,74.4375,0.041666666666666664,18-30,True,Discounted,Top Spender
+377,Male,33,Los Angeles,Silver,11,4.2,False,18,Neutral,770,70.0,0.05263157894736842,31-45,False,Full Price,Mid Spender
+378,Female,43,Chicago,Bronze,10,3.3,True,43,Unsatisfied,516,51.6,0.022727272727272728,31-45,False,Discounted,Mid Spender
+379,Male,30,San Francisco,Gold,19,4.6,False,12,Satisfied,1450,76.3157894736842,0.07692307692307693,18-30,True,Full Price,Top Spender
+380,Male,27,Miami,Silver,13,4.1,True,58,Unsatisfied,710,54.61538461538461,0.01694915254237288,18-30,False,Discounted,Mid Spender
+381,Female,37,Houston,Bronze,7,3.4,False,27,Neutral,431,61.57142857142857,0.03571428571428571,31-45,False,Full Price,Low Spender
+382,Female,31,New York,Gold,15,4.5,True,31,Satisfied,1161,77.4,0.03125,31-45,True,Discounted,Top Spender
+383,Male,35,Los Angeles,Silver,12,4.3,False,15,Neutral,821,68.41666666666667,0.0625,31-45,True,Full Price,High Spender
+384,Female,41,Chicago,Bronze,9,3.6,True,43,Unsatisfied,495,55.0,0.022727272727272728,31-45,False,Discounted,Low Spender
+385,Male,28,San Francisco,Gold,21,4.9,False,10,Satisfied,1490,70.95238095238095,0.09090909090909091,18-30,True,Full Price,Top Spender
+386,Male,32,Miami,Silver,10,3.8,True,37,Unsatisfied,660,66.0,0.02631578947368421,31-45,False,Discounted,Mid Spender
+387,Female,36,Houston,Bronze,8,3.1,False,23,Neutral,440,55.0,0.041666666666666664,31-45,False,Full Price,Low Spender
+388,Female,30,New York,Gold,16,4.7,True,24,Satisfied,1201,75.0625,0.04,18-30,True,Discounted,Top Spender
+389,Male,34,Los Angeles,Silver,11,4.1,False,16,Neutral,780,70.9090909090909,0.058823529411764705,31-45,False,Full Price,High Spender
+390,Female,43,Chicago,Bronze,10,3.3,True,44,Unsatisfied,506,50.6,0.022222222222222223,31-45,False,Discounted,Mid Spender
+391,Male,30,San Francisco,Gold,20,4.8,False,13,Satisfied,1460,73.0,0.07142857142857142,18-30,True,Full Price,Top Spender
+392,Male,27,Miami,Silver,13,4.1,True,59,Unsatisfied,710,54.61538461538461,0.016666666666666666,18-30,False,Discounted,Mid Spender
+393,Female,37,Houston,Bronze,7,3.4,False,28,Neutral,451,64.42857142857143,0.034482758620689655,31-45,False,Full Price,Low Spender
+394,Female,31,New York,Gold,15,4.5,True,32,Satisfied,1141,76.06666666666666,0.030303030303030304,31-45,True,Discounted,High Spender
+395,Male,35,Los Angeles,Silver,12,4.1,False,17,Neutral,801,66.75,0.05555555555555555,31-45,True,Full Price,High Spender
+396,Female,41,Chicago,Bronze,9,3.6,True,44,Unsatisfied,475,52.77777777777778,0.022222222222222223,31-45,False,Discounted,Low Spender
+397,Male,28,San Francisco,Gold,21,4.9,False,12,Satisfied,1480,70.47619047619048,0.07692307692307693,18-30,True,Full Price,Top Spender
+398,Male,32,Miami,Silver,10,3.8,True,38,Unsatisfied,660,66.0,0.02564102564102564,31-45,False,Discounted,Mid Spender
+399,Female,36,Houston,Bronze,8,3.0,False,22,Neutral,470,58.75,0.043478260869565216,31-45,False,Full Price,Low Spender
+400,Female,30,New York,Gold,16,4.5,True,25,Satisfied,1191,74.4375,0.038461538461538464,18-30,True,Discounted,Top Spender
+401,Male,33,Los Angeles,Silver,11,4.1,False,18,Neutral,800,72.72727272727273,0.05263157894736842,31-45,True,Full Price,High Spender
+402,Female,43,Chicago,Bronze,10,3.3,True,45,Unsatisfied,516,51.6,0.021739130434782608,31-45,False,Discounted,Mid Spender
+403,Male,30,San Francisco,Gold,19,4.6,False,13,Satisfied,1450,76.3157894736842,0.07142857142857142,18-30,True,Full Price,Top Spender
+404,Male,27,Miami,Silver,13,4.1,True,60,Unsatisfied,710,54.61538461538461,0.01639344262295082,18-30,False,Discounted,Mid Spender
+405,Female,37,Houston,Bronze,7,3.4,False,29,Neutral,431,61.57142857142857,0.03333333333333333,31-45,False,Full Price,Low Spender
+406,Female,31,New York,Gold,15,4.5,True,33,Satisfied,1161,77.4,0.029411764705882353,31-45,True,Discounted,Top Spender
+407,Male,35,Los Angeles,Silver,12,4.3,False,16,Neutral,821,68.41666666666667,0.058823529411764705,31-45,True,Full Price,High Spender
+408,Female,41,Chicago,Bronze,9,3.6,True,45,Unsatisfied,495,55.0,0.021739130434782608,31-45,False,Discounted,Low Spender
+409,Male,28,San Francisco,Gold,21,4.9,False,11,Satisfied,1490,70.95238095238095,0.08333333333333333,18-30,True,Full Price,Top Spender
+410,Male,32,Miami,Silver,10,3.8,True,39,Unsatisfied,660,66.0,0.025,31-45,False,Discounted,Mid Spender
+411,Female,36,Houston,Bronze,8,3.1,False,24,Neutral,440,55.0,0.04,31-45,False,Full Price,Low Spender
+412,Female,30,New York,Gold,16,4.7,True,25,Satisfied,1201,75.0625,0.038461538461538464,18-30,True,Discounted,Top Spender
+413,Male,34,Los Angeles,Silver,11,4.1,False,17,Neutral,780,70.9090909090909,0.05555555555555555,31-45,False,Full Price,High Spender
+414,Female,43,Chicago,Bronze,10,3.3,True,46,Unsatisfied,506,50.6,0.02127659574468085,31-45,False,Discounted,Mid Spender
+415,Male,30,San Francisco,Gold,20,4.8,False,14,Satisfied,1460,73.0,0.06666666666666667,18-30,True,Full Price,Top Spender
+416,Male,27,Miami,Silver,13,4.1,True,61,Unsatisfied,710,54.61538461538461,0.016129032258064516,18-30,False,Discounted,Mid Spender
+417,Female,37,Houston,Bronze,7,3.4,False,30,Neutral,451,64.42857142857143,0.03225806451612903,31-45,False,Full Price,Low Spender
+418,Female,31,New York,Gold,15,4.5,True,34,Satisfied,1141,76.06666666666666,0.02857142857142857,31-45,True,Discounted,High Spender
+419,Male,35,Los Angeles,Silver,12,4.1,False,19,Neutral,801,66.75,0.05,31-45,True,Full Price,High Spender
+420,Female,41,Chicago,Bronze,9,3.6,True,46,Unsatisfied,475,52.77777777777778,0.02127659574468085,31-45,False,Discounted,Low Spender
+421,Male,28,San Francisco,Gold,21,4.9,False,12,Satisfied,1480,70.47619047619048,0.07692307692307693,18-30,True,Full Price,Top Spender
+422,Male,32,Miami,Silver,10,3.8,True,40,Unsatisfied,660,66.0,0.024390243902439025,31-45,False,Discounted,Mid Spender
+423,Female,36,Houston,Bronze,8,3.0,False,26,Neutral,470,58.75,0.037037037037037035,31-45,False,Full Price,Low Spender
+424,Female,30,New York,Gold,16,4.5,True,27,Satisfied,1191,74.4375,0.03571428571428571,18-30,True,Discounted,Top Spender
+425,Male,34,Los Angeles,Silver,11,4.2,False,18,Neutral,780,70.9090909090909,0.05263157894736842,31-45,False,Full Price,High Spender
+426,Female,43,Chicago,Bronze,10,3.3,True,47,Unsatisfied,516,51.6,0.020833333333333332,31-45,False,Discounted,Mid Spender
+427,Male,30,San Francisco,Gold,19,4.6,False,14,Satisfied,1450,76.3157894736842,0.06666666666666667,18-30,True,Full Price,Top Spender
+428,Male,27,Miami,Silver,13,4.1,True,62,Unsatisfied,710,54.61538461538461,0.015873015873015872,18-30,False,Discounted,Mid Spender
+429,Female,37,Houston,Bronze,7,3.4,False,31,Neutral,431,61.57142857142857,0.03125,31-45,False,Full Price,Low Spender
+430,Female,31,New York,Gold,15,4.5,True,35,Satisfied,1161,77.4,0.027777777777777776,31-45,True,Discounted,Top Spender
+431,Male,35,Los Angeles,Silver,12,4.3,False,20,Neutral,821,68.41666666666667,0.047619047619047616,31-45,True,Full Price,High Spender
+432,Female,41,Chicago,Bronze,9,3.6,True,47,Unsatisfied,495,55.0,0.020833333333333332,31-45,False,Discounted,Low Spender
+433,Male,28,San Francisco,Gold,21,4.9,False,11,Satisfied,1490,70.95238095238095,0.08333333333333333,18-30,True,Full Price,Top Spender
+434,Male,32,Miami,Silver,10,3.8,True,41,Unsatisfied,660,66.0,0.023809523809523808,31-45,False,Discounted,Mid Spender
+435,Female,36,Houston,Bronze,8,3.1,False,28,Neutral,440,55.0,0.034482758620689655,31-45,False,Full Price,Low Spender
+436,Female,30,New York,Gold,16,4.7,True,28,Satisfied,1201,75.0625,0.034482758620689655,18-30,True,Discounted,Top Spender
+437,Male,34,Los Angeles,Silver,11,4.1,False,19,Neutral,780,70.9090909090909,0.05,31-45,False,Full Price,High Spender
+438,Female,43,Chicago,Bronze,10,3.3,True,48,Unsatisfied,506,50.6,0.02040816326530612,31-45,False,Discounted,Mid Spender
+439,Male,30,San Francisco,Gold,20,4.8,False,15,Satisfied,1460,73.0,0.0625,18-30,True,Full Price,Top Spender
+440,Male,27,Miami,Silver,13,4.1,True,63,Unsatisfied,710,54.61538461538461,0.015625,18-30,False,Discounted,Mid Spender
+441,Female,37,Houston,Bronze,7,3.4,False,32,Neutral,451,64.42857142857143,0.030303030303030304,31-45,False,Full Price,Low Spender
+442,Female,31,New York,Gold,15,4.5,True,36,Satisfied,1141,76.06666666666666,0.02702702702702703,31-45,True,Discounted,High Spender
+443,Male,35,Los Angeles,Silver,12,4.1,False,20,Neutral,801,66.75,0.047619047619047616,31-45,True,Full Price,High Spender
+444,Female,41,Chicago,Bronze,9,3.6,True,48,Unsatisfied,475,52.77777777777778,0.02040816326530612,31-45,False,Discounted,Low Spender
+445,Male,28,San Francisco,Gold,21,4.9,False,13,Satisfied,1480,70.47619047619048,0.07142857142857142,18-30,True,Full Price,Top Spender
+446,Male,32,Miami,Silver,10,3.8,True,42,Unsatisfied,660,66.0,0.023255813953488372,31-45,False,Discounted,Mid Spender
+447,Female,36,Houston,Bronze,8,3.0,False,27,Neutral,470,58.75,0.03571428571428571,31-45,False,Full Price,Low Spender
+448,Female,30,New York,Gold,16,4.5,True,28,Satisfied,1191,74.4375,0.034482758620689655,18-30,True,Discounted,Top Spender
+449,Male,34,Los Angeles,Silver,11,4.2,False,21,Neutral,780,70.9090909090909,0.045454545454545456,31-45,False,Full Price,High Spender
+450,Female,43,Chicago,Bronze,10,3.3,True,49,Unsatisfied,516,51.6,0.02,31-45,False,Discounted,Mid Spender
